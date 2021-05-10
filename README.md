@@ -1,0 +1,2 @@
+# rbmq
+ rabbitmq client
